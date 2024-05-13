@@ -1,0 +1,37 @@
+{
+  "browsers": [],
+  "drivers": [
+    {
+      "major_browser_version": "124",
+      "driver_name": "chromedriver",
+      "driver_version": "124.0.6367.201",
+      "driver_ttl": 1715599619
+    },
+    {
+      "major_browser_version": "125",
+      "driver_name": "geckodriver",
+      "driver_version": "0.34.0",
+      "driver_ttl": 1715599936
+    }
+  ],
+  "stats": [
+    {
+      "browser": "chrome",
+      "browser_version": "",
+      "os": "windows",
+      "arch": "amd64",
+      "lang": "java",
+      "selenium_version": "4.19",
+      "stats_ttl": 1715599618
+    },
+    {
+      "browser": "firefox",
+      "browser_version": "",
+      "os": "windows",
+      "arch": "amd64",
+      "lang": "java",
+      "selenium_version": "4.19",
+      "stats_ttl": 1715599936
+    }
+  ]
+}
